@@ -1,0 +1,25 @@
+{
+  "name": "matching_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keitatata/matching_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keitatata/matching_app/issues"
+  },
+  "homepage": "https://github.com/keitatata/matching_app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-generator": "^4.16.0",
+    "sequelize": "^5.8.1",
+    "uuid": "^3.3.2"
+  }
+}
